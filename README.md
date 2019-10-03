@@ -1,29 +1,31 @@
-# easychat
+# EasyChat
 
-## Project setup
+## Description
+
+EasyChat is a chat application built in Vue. It comes bundled with a web socket server built in PHP with Workerman.
+
+## Setup
+
+To set up the client, run the following command:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+To test the application and automatically compile changes, run:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+To compile for production, run:
+
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+To run an instance of the web server, use:
 
-### Lints and fixes files
 ```
-npm run lint
+npm run server
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
