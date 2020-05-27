@@ -13,7 +13,7 @@ if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
     system('clear');
 }
 
-echo "EasyChat server started. Use Ctrl+C to shut the server down.\n============================================================\n\n";
+echo "Vue Websocket Chat server started. Use Ctrl+C to shut the server down.\n============================================================\n\n";
 
 register_shutdown_function(function() {
     echo "\nExiting...";
