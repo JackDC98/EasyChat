@@ -1,8 +1,8 @@
-# EasyChat
+# Vue Websocket Chat
 
 ## Introduction
 
-EasyChat is a chatting application built in Vue and PHP. It runs on a propietary server built in PHP and compiled into a handy PHAR package. The client communicates with the server using web sockets to ensure instant communication between users on the server.
+Vue Websocket Chat is a chatting application built in Vue and PHP. It runs on a propietary server built in PHP and compiled into a handy PHAR package. The client communicates with the server using web sockets to ensure instant communication between users on the server.
 
 ## Setup
 
